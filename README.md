@@ -9,7 +9,7 @@
 * :mortar_board: Am a Master student (Engineering) in Mathematical Modeling and Artifical Intelligence at [INP-ENSEEIHT](www.enseeiht.fr) and [INSA Toulouse](www.insa-toulouse.fr) in France :blue_square: :white_large_square: :red_square: I am also an apprentice at Airbus :airplane:
 * :seedling: Learn about Deep Learning and Reinforcement Learning
 * :yum: Am interesed in learning new languages and technology
-* :speech_balloon: Speak *French* (native), *Spanish* (native), *English* (C1), *Italian* (C1) and *Malagasy* (A2)
+* :speech_balloon: Speak *French* (native), *Spanish* (native), *English* (C1), *Italian* (C1)
 
 ### Tech Stack
 
