@@ -6,6 +6,7 @@
 
 ### I'm Nestor Carmona and I ...
 
+* ✈️ Work at Airbus as a Aircraft Performance Engineer in the Performance in Operations team.
 * :mortar_board: Am a Master student (Engineering) in Mathematical Modeling and Artifical Intelligence at [INP-ENSEEIHT](www.enseeiht.fr) and [INSA Toulouse](www.insa-toulouse.fr) in France :blue_square: :white_large_square: :red_square: I am also an apprentice at Airbus :airplane:
 * :seedling: Learn about Deep Learning and Reinforcement Learning
 * :yum: Am interesed in learning new languages and technology
@@ -16,8 +17,6 @@
 * Python :snake: (PyTorch :fire:, NumPy, Pandas, Jupyter, ...), MATLAB, ...
 * Git, GitHub :octocat:
 * LaTeX :bird:, Overleaf :leaves:, Markdown
-
-I currently work on a [M1 MacBook Pro](www.apple.com) machine but use a [Linux](www.linux.org) :penguin: at work. My favorite editor is [VS Code](code.visualstudio.com) which I make sure to use with a lot of extensions.
 
 <p>
 	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nestorcarmona&show_icons=true&hide_title=true" align="left"></a>
